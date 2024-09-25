@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/option_7a"
+        android:title="7 A" />
+    <item android:id="@+id/option_7b"
+        android:title="7 B" />
+    <item android:id="@+id/option_8a"
+        android:title="8 A" />
+    <item android:id="@+id/option_8b"
+        android:title="8 B" />
+    <item android:id="@+id/option_9a"
+        android:title="9 A" />
+    <item android:id="@+id/option_9b"
+        android:title="9 B" />
+</menu>

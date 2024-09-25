@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CBT SMP Doa Bangsa</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string-array name="class_type">
+        <item>7A</item>
+        <item>7B</item>
+        <item>8A</item>
+        <item>8B</item>
+        <item>9A</item>
+        <item>9B</item>
+    </string-array>
+</resources>

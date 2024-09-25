@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843102526559",
+    "project_id": "cbt-smp-doa-bangsa",
+    "storage_bucket": "cbt-smp-doa-bangsa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843102526559:android:4427e4a030daa2e59acfea",
+        "android_client_info": {
+          "package_name": "com.example.cbtsmpdoabangsa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpDZ4jCrkXoLP1D7-qfm7v_YVnBt-gEsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
